@@ -1,0 +1,14 @@
+{
+    "direct": [
+        "China.yaml",
+        "ChinaIP.yaml",
+        "StreamingCN.yaml"
+    ],
+    "proxy": [
+        "Global.yaml",
+        "Streaming.yaml"
+    ],
+    "reject": [
+        "Advertising.yaml"
+    ]
+}
